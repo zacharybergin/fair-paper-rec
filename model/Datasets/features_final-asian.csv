@@ -1,0 +1,813 @@
+Authors,Gender,Race,Career,Country,h_index,Label,author_id
+Abhishek Kumar,male,A,Associate Professor,under-developed,45,1,4
+Alaeddine Mihoub,male,A,Lecturer,under-developed,4,1,17
+Andreas Butz,male,W_NL,Professor,under-developed,35,1,37
+Asnat Greenstein-Messica,female,A,Graduate Student,under-developed,6,1,77
+Azza Abouzied,female,A,Lecturer,under-developed,15,1,83
+Benedikt Loepp,male,W_NL,Researcher,under-developed,7,1,89
+Dan Conway,male,B_NL,Lecturer,under-developed,6,1,153
+Einat Minkov,female,A,Professor,under-developed,21,1,210
+Evgenia Wasserman Pritsker,female,A,Graduate Student,under-developed,2,1,237
+Fang Chen,female,A,Professor,under-developed,27,1,240
+Guihuan Feng,female,A,Lecturer,under-developed,6,1,280
+Haitao Yu,male,A,Lecturer,under-developed,19,1,282
+Harold Soh,male,A,Lecturer,under-developed,17,1,286
+Haruo Takemura,male,A,Professor,under-developed,34,1,287
+Holger Schultheis,male,W_NL,Researcher,under-developed,12,1,301
+Jason Orlosky,male,B_NL,Professor,under-developed,13,1,336
+Jianlong Zhou,male,A,Lecturer,under-developed,15,1,361
+Jrgen Ziegler,male,W_NL,Professor,under-developed,26,1,415
+Kentaro Inui,male,A,Professor,under-developed,30,1,435
+Kiyoshi Kiyokawa,male,A,Professor,under-developed,30,1,439
+Kun Yu,male,A,Lecturer,under-developed,15,1,445
+Li Chen,female,A,Associate Professor,under-developed,37,1,462
+Lior Rokach,male,W_NL,Professor,under-developed,58,1,466
+Marcelo Errecalde,male,HL,Professor,under-developed,15,1,488
+Marko Gasparic,male,W_NL,Researcher,under-developed,5,1,502
+Myat Su Yin,female,A,Researcher,under-developed,5,1,544
+Peter Haddawy,male,B_NL,Professor,under-developed,37,1,593
+Phattanapon Rhienmora,male,A,Lecturer,under-developed,10,1,598
+Photchara Ratsamee,male,A,Lecturer,under-developed,9,1,601
+Shafiq Joty,male,A,Lecturer,under-developed,24,1,671
+Shlomo Berkovsky,male,A,Associate Professor,under-developed,31,1,683
+Siriwan Suebnukarn,female,A,Professor,under-developed,18,1,691
+Takao Onoye,male,A,Professor,under-developed,24,1,711
+Thanapong Intharah,male,A,Lecturer,under-developed,2,1,715
+Tomohiro Mashita,male,A,Associate Professor,under-developed,10,1,735
+Tsvi Kuflik,male,A,Professor,under-developed,30,1,739
+Weinan Zhang,male,A,Lecturer,under-developed,30,1,761
+Xiangmin Fan,male,A,Associate Professor,under-developed,6,1,769
+Yong Wang,male,A,Researcher,under-developed,7,1,782
+Yuichi Itoh,male,A,Associate Professor,under-developed,17,1,788
+Yuichiroh Matsubayashi,male,A,Lecturer,under-developed,9,1,789
+Yuki Uranishi,male,A,Researcher,under-developed,6,1,790
+Andreas Butz,male,W_NL,Professor,under-developed,35,2,37
+Anil Mishra,male,A,Researcher,under-developed,45,2,49
+Asim Evren Yanta,male,A,Researcher,under-developed,8,2,76
+Chu Luo,male,A,Researcher,under-developed,10,2,139
+Daniel Buschek,male,W_NL,Researcher,under-developed,15,2,156
+Daniel Orth,male,W_NL,Graduate Student,under-developed,3,2,164
+Doa orlu,female,A,Graduate Student,under-developed,2,2,203
+Elise van den Hoven,female,W_NL,Professor,under-developed,30,2,216
+Eva Hornecker,female,W_NL,Professor,under-developed,32,2,236
+Geehyuk Lee,male,A,Professor,under-developed,21,2,264
+Hideyuki Nakanishi,male,A,Associate Professor,under-developed,18,2,296
+Hwajung Hong,female,A,Lecturer,under-developed,12,2,308
+Hyeon-Jeong Suk,female,A,Associate Professor,under-developed,13,2,309
+Injung Lee,female,A,Graduate Student,under-developed,2,2,316
+James Pierce,male,W_NL,Professor,under-developed,24,2,323
+Jeffrey Nichols,male,W_NL,Professor,under-developed,38,2,343
+Jiwoo Hong,male,A,Lecturer,under-developed,11,2,365
+Jorg Muller,male,W_NL,Professor,under-developed,34,2,413
+Jorge Goncalves,male,HL,Lecturer,under-developed,27,2,388
+Monica Divitini,female,HL,Professor,under-developed,24,2,540
+Oguzhan Ozcan,male,A,Professor,under-developed,11,2,563
+Oliver Korn,male,W_NL,Professor,under-developed,15,2,567
+Patrick Olivier,male,B_NL,Professor,under-developed,52,2,577
+Peter Wright,male,W_NL,Professor,under-developed,60,2,596
+Sang-su Lee,male,A,Lecturer,under-developed,8,2,643
+Simone Mora,male,HL,Professor,under-developed,10,2,689
+Stefan Greuter,male,W_NL,Professor,under-developed,10,2,696
+Tilbe Gksun,female,A,Associate Professor,under-developed,16,2,724
+Vassilis Kostakos,male,W_NL,Professor,under-developed,41,2,750
+Woohun Lee,male,A,Professor,under-developed,13,2,768
+Yoko Akama,female,A,Associate Professor,under-developed,13,2,780
+Youn-kyung Lim,female,A,Professor,under-developed,26,2,784
+Alim Islam,male,A,Professor,under-developed,9,3,26
+Aloha Ambe,female,A,Graduate Student,under-developed,5,3,27
+Andrea Parker,female,B_NL,Lecturer,under-developed,17,3,36
+Arindam Dey,male,A,Lecturer,under-developed,15,3,66
+Arpita Bhattacharya,female,A,Associate Professor,under-developed,2,3,70
+Arushi Jain,female,A,Researcher,under-developed,4,3,74
+Bruce Mehler,male,W_NL,Researcher,under-developed,31,3,113
+Cagri Tasci,male,W_NL,Graduate Student,under-developed,1,3,117
+Christian Theobalt,male,W_NL,Professor,under-developed,65,3,135
+Daisuke Sakamoto,male,A,Associate Professor,under-developed,23,3,151
+Daniel Weiskopf,male,W_NL,Professor,under-developed,49,3,169
+David Ahlstrom,male,W_NL,Professor,under-developed,53,3,179
+David Green,male,W_NL,Professor,under-developed,95,3,183
+David Tolley,male,W_NL,Researcher,under-developed,4,3,187
+Deepak Sahoo,male,A,Graduate Student,under-developed,18,3,188
+Dina Katabi,female,A,Professor,under-developed,69,3,197
+Eun Kyoung Choi,female,A,Professor,under-developed,30,3,233
+Feng Tian,male,A,Professor,under-developed,14,3,243
+Florian Echtler,male,W_NL,Lecturer,under-developed,18,3,246
+Florian Mueller,male,W_NL,Professor,under-developed,30,3,247
+Francisco Moreno-Fernndez,male,HL,Professor,under-developed,32,3,253
+Frank Vetere,male,W_NL,Professor,under-developed,37,3,255
+Gavin Wood,male,W_NL,Researcher,under-developed,28,3,263
+Harald Reiterer,male,W_NL,Professor,under-developed,36,3,285
+Hasibullah Sahibzada,male,A,Graduate Student,under-developed,1,3,288
+Heinrich Hussmann,male,W_NL,Professor,under-developed,41,3,290
+Hideaki Kuzuoka,male,A,Professor,under-developed,28,3,295
+Hilary Davis,female,W_NL,Researcher,under-developed,17,3,297
+Hsu Chen-Yu,male,A,Graduate Student,under-developed,6,3,305
+Hui Lan,female,A,Professor,under-developed,95,3,306
+Hui-Ling Chen,female,A,Associate Professor,under-developed,31,3,307
+Hyunjoo Song,female,A,Professor,under-developed,16,3,310
+Jan Gugenheimer,male,W_NL,Researcher,under-developed,12,3,328
+Jeni Paay,female,A,Associate Professor,under-developed,20,3,345
+Jens Grubert,male,W_NL,Associate Professor,under-developed,17,3,350
+Jens Mller,male,W_NL,Professor,under-developed,45,3,351
+Jerry Chan,male,A,Professor,under-developed,48,3,355
+Ji Kim,male,A,Lecturer,under-developed,13,3,360
+Johannes Zagermann,male,W_NL,Graduate Student,under-developed,3,3,375
+Jrgen Steimle,male,W_NL,Professor,under-developed,28,3,414
+Junhyeok Kim,male,A,Graduate Student,under-developed,7,3,410
+Ken Pfeuffer,male,W_NL,Graduate Student,under-developed,11,3,434
+Kim Marriott,female,W_NL,Professor,under-developed,53,3,438
+Kouta Minamizawa,male,A,Professor,under-developed,24,3,441
+Liang He,male,A,Professor,under-developed,55,3,464
+Lung-Pan Cheng,male,A,Lecturer,under-developed,12,3,480
+Margot Brereton,female,W_NL,Professor,under-developed,26,3,494
+Mauricio Souza,male,HL,Professor,under-developed,15,3,508
+Michael Rohs,male,W_NL,Professor,under-developed,40,3,523
+Michael Shane,male,W_NL,Associate Professor,under-developed,27,3,524
+Nicola Marsden,female,W_NL,Professor,under-developed,9,3,555
+Nina Wenig,female,A,Graduate Student,under-developed,6,3,561
+Nirmal Patel,male,A,Associate Professor,under-developed,10,3,562
+Patrick Baudisch,male,W_NL,Professor,under-developed,71,3,576
+Pattie Maes,female,W_NL,Professor,under-developed,74,3,579
+Paul Roe,male,W_NL,Professor,under-developed,26,3,586
+Peter Tolmie,male,W_NL,Researcher,under-developed,32,3,595
+Raimund Dachselt,male,W_NL,Professor,under-developed,34,3,612
+Rainer Malaka,male,W_NL,Professor,under-developed,25,3,613
+Robert Kovacs,male,W_NL,Graduate Student,under-developed,10,3,622
+Rohit Khot,male,A,Graduate Student,under-developed,13,3,627
+Ronald Schroeter,male,W_NL,Graduate Student,under-developed,22,3,630
+Ryan Truby,male,W_NL,Researcher,under-developed,12,3,635
+Sangkeun Park,male,A,Graduate Student,under-developed,5,3,644
+sarah john-olabode,female,W_NL,Lecturer,under-developed,6,3,801
+Shengdong Zhao,male,A,Associate Professor,under-developed,26,3,678
+Shuanghe Yu,male,A,Professor,under-developed,15,3,685
+Simon Voelker,male,A,Researcher,under-developed,11,3,688
+Stephan Schiller,male,W_NL,Professor,under-developed,54,3,701
+suliman Ahmed,male,A,Associate Professor,under-developed,3,3,802
+Sven Bertel,male,W_NL,Professor,under-developed,12,3,706
+Thiago Santini,male,HL,Graduate Student,under-developed,12,3,717
+Thuy Le,female,A,Associate Professor,under-developed,10,3,723
+Vassilis Kostakos,male,W_NL,Professor,under-developed,41,3,751
+Ville Mkel,male,A,Graduate Student,under-developed,8,3,755
+WanYu Liu,female,A,Professor,under-developed,9,3,759
+Wilko Heuten,male,W_NL,Researcher,under-developed,26,3,766
+Xin Rong,male,A,Professor,under-developed,56,3,770
+Yiting Wang,male,A,Lecturer,under-developed,10,3,778
+Young-Woo Park,male,A,Lecturer,under-developed,7,3,785
+Yuting Zhang,female,A,Professor,under-developed,25,3,792
+Zhanna Sarsenbayeva,female,A,Graduate Student,under-developed,7,3,795
+Alan Medlar,male,W_NL,Researcher,developed,13,1,19
+Alejandro Catala,male,HL,Researcher,developed,15,1,20
+Andrea Janes,male,W_NL,Researcher,developed,16,1,34
+Arnab Nandi,male,A,Associate Professor,developed,16,1,69
+Arun Kumar,male,A,Graduate Student,developed,1,1,73
+Ayan Banerjee,male,A,Researcher,developed,23,1,82
+Bastian Pfleging,male,A,Lecturer,developed,15,1,85
+Bastin Tony Roy Savarimuthu,male,A,Associate Professor,developed,19,1,86
+Benjamin A. Carterette,male,B_NL,Associate Professor,developed,30,1,90
+Benjamin B. Bederson,male,B_NL,Professor,developed,66,1,91
+Bongjun Kim,male,A,Graduate Student,developed,7,1,101
+Brent Hecht,male,W_NL,Associate Professor,developed,30,1,107
+Bret Jackson,male,B_NL,Lecturer,developed,46,1,109
+Brooke Boatman,female,W_NL,Researcher,developed,2,1,112
+Bryan Pardo,male,HL,Professor,developed,31,1,115
+Carlos Pereira Santos,male,HL,Lecturer,developed,6,1,118
+Charles Tijus,male,B_NL,Professor,developed,21,1,123
+Cristina Conati,female,A,Professor,developed,42,1,147
+Daniel Garijo,male,HL,Researcher,developed,18,1,159
+Derek Reilly,male,W_NL,Associate Professor,developed,18,1,192
+Diane Litman,female,B_NL,Professor,developed,56,1,195
+Dorota Glowacka,female,W_NL,Lecturer,developed,16,1,201
+Dylan Ebert,male,W_NL,Graduate Student,developed,4,1,204
+Eduardo Veas,male,HL,Professor,developed,16,1,205
+Edward Lank,male,B_NL,Professor,developed,24,1,206
+Edward Lank,male,B_NL,Professor,developed,24,1,206
+Enamul Hoque,male,A,Lecturer,developed,19,1,227
+Fajie Yuan,male,A,Graduate Student,developed,10,1,239
+Fillia Makedon,female,B_NL,Professor,developed,36,1,244
+Francesco Ricci,male,W_NL,Professor,developed,52,1,251
+Gabriel J. Brostow,male,B_NL,Professor,developed,30,1,260
+George Samaras,male,B_NL,Professor,developed,32,1,266
+Giulio Jacucci,male,W_NL,Professor,developed,42,1,274
+Giuseppe Carenini,male,W_NL,Professor,developed,42,1,275
+Gloria Mark,female,A,Professor,developed,46,1,276
+Greg Jamieson,male,W_NL,Professor,developed,25,1,278
+Guibing Guo,male,A,Professor,developed,19,1,279
+Guus Schreiber,male,W_NL,Professor,developed,53,1,281
+Helen Wauck,female,B_NL,Graduate Student,developed,5,1,291
+Himel Dev,male,A,Graduate Student,developed,7,1,298
+I.V. Ramakrishnan,male,A,Professor,developed,43,1,311
+Iiris Sundin,female,A,Graduate Student,developed,6,1,314
+Jaakko Peltonen,male,A,Professor,developed,20,1,320
+Jaakko Peltonen,male,W_NL,Professor,developed,20,1,320
+Javier Jaen,male,A,Associate Professor,developed,19,1,338
+Jingyi Li,female,A,Graduate Student,developed,4,1,364
+Joemon M. Jose,male,A,Professor,developed,42,1,374
+John Canny,male,B_NL,Professor,developed,78,1,376
+Jonathan Strahl,male,B_NL,Graduate Student,developed,3,1,383
+Joost Broekens,male,B_NL,Lecturer,developed,22,1,385
+Joseph Malloch,male,B_NL,Lecturer,developed,15,1,392
+Juan Felipe Beltran,male,HL,Researcher,developed,6,1,398
+Julie Shah,female,A,Associate Professor,developed,31,1,405
+Jun Hu,male,A,Associate Professor,developed,24,1,407
+Junghyo Lee,male,A,Graduate Student,developed,6,1,408
+Karan Ahuja,male,A,Graduate Student,developed,7,1,418
+Keiko Katsuragawa,female,A,Lecturer,developed,6,1,428
+Krzysztof Z. Gajos,male,W_NL,Professor,developed,41,1,443
+Kseniia Belorustceva,female,HL,Researcher,developed,1,1,444
+Kyle Kotowick,male,B_NL,Graduate Student,developed,3,1,446
+Long Chen,male,A,Associate Professor,developed,97,1,468
+Luana Micallef,female,A,Lecturer,developed,10,1,476
+Marcin Detyniecki,male,W_NL,Researcher,developed,18,1,489
+Marco Zanellati,male,HL,Graduate Student,developed,1,1,490
+Mark A. Neerincx,male,A,Professor,developed,35,1,498
+Mark A. Neerincx,male,A,Professor,developed,35,1,498
+Marta Soare,female,HL,Researcher,developed,4,1,504
+Michael Terry,male,W_NL,Associate Professor,developed,18,1,525
+Michalis Papakostas,male,HL,Researcher,developed,8,1,528
+Mohammad R. Alsulmi,male,A,Graduate Student,developed,3,1,537
+Monica Ngo,female,A,Graduate Student,developed,2,1,541
+Muhsin Menekse,male,A,Lecturer,developed,13,1,543
+Nagiza F. Samatova,female,A,Professor,developed,38,1,546
+Panos Markopoulos,male,HL,Professor,developed,41,1,572
+Patricia Pons,female,A,Graduate Student,developed,9,1,575
+Patrik Floren,male,A,Lecturer,developed,20,1,578
+Paul Jones,male,B_NL,Graduate Student,developed,5,1,584
+Paul Schrater,male,W_NL,Associate Professor,developed,34,1,587
+Phuong Pham,male,A,Graduate Student,developed,26,1,602
+Pierre De Loor,male,B_NL,Professor,developed,13,1,603
+Po-Tsung Chiu,male,A,Graduate Student,developed,5,1,605
+Prajwal Paudyal,male,A,Graduate Student,developed,4,1,606
+Qisheng Li,female,A,Graduate Student,developed,2,1,609
+Rifca Peters,female,HL,Graduate Student,developed,3,1,619
+Sabastien Lall,male,A,Researcher,developed,10,1,709
+Samuel Kaski,male,B_NL,Professor,developed,33,1,639
+Sandeep K.S. Gupta,male,A,Professor,developed,53,1,640
+Scott Sanner,male,W_NL,Professor,developed,30,1,660
+Shereen Oraby,female,B_NL,Graduate Student,developed,10,1,679
+Sherlock A. Licorish,male,A,Lecturer,developed,12,1,680
+Shilad Sen,male,A,Professor,developed,25,1,681
+Tobias Langlotz,male,B_NL,Associate Professor,developed,23,1,727
+Tomi Peltola,male,A,Researcher,developed,9,1,734
+Tuukka Ruotsalo,male,A,Researcher,developed,24,1,741
+Utkarsh Dwivedi,male,A,Graduate Student,developed,3,1,743
+Valentina Maccatrozzo,female,HL,Graduate Student,developed,6,1,744
+Vassilis Athitsos,male,HL,Professor,developed,41,1,749
+Vassilis-Javed Khan,male,A,Lecturer,developed,12,1,752
+Vikas Ashok,male,A,Lecturer,developed,10,1,754
+Wai-Tat Fu,male,A,Professor,developed,29,1,757
+Wencan Luo,male,A,Graduate Student,developed,9,1,762
+Yevgen Borodin,male,A,Researcher,developed,17,1,775
+Yolanda Gil,female,HL,Researcher,developed,61,1,781
+Yong Zheng,male,A,Lecturer,developed,18,1,783
+Ziang Xiao,male,A,Graduate Student,developed,4,1,797
+Abigail C. Durrant,female,W_NL,Professor,developed,15,2,5
+Adel Al-Dawood,male,A,Graduate Student,developed,1,2,8
+Aditya Vashistha,male,A,Lecturer,developed,12,2,10
+Adrian Hazzard,male,B_NL,Researcher,developed,10,2,12
+Adrian L. Jessup Schneider,male,W_NL,Graduate Student,developed,4,2,13
+Aleksandra Sarcevic,female,W_NL,Associate Professor,developed,15,2,21
+Aliaksei Miniukovich,male,A,Researcher,developed,7,2,25
+Aluna Everitt,female,B_NL,Researcher,developed,3,2,28
+Andrea L. Hartzler,male,W_NL,Associate Professor,developed,31,2,35
+Andrew B.L. Berry,male,B_NL,Researcher,developed,7,2,39
+Andrew Vande Moere,male,W_NL,Professor,developed,29,2,45
+Aneesh P. Tarun,male,A,Researcher,developed,6,2,46
+Anhong Guo,male,A,Graduate Student,developed,11,2,48
+Anna Vallgrda,female,HL,Associate Professor,developed,13,2,52
+Anna Weisling,female,W_NL,Graduate Student,developed,3,2,54
+Anne Marie Kanstrup,female,W_NL,Professor,developed,15,2,55
+Anthony Tang,male,A,Associate Professor,developed,50,2,60
+Anton Fedosov,male,W_NL,Researcher,developed,8,2,62
+Ariane Laplante-Lvesque,female,HL,Associate Professor,developed,23,2,65
+Artem Dementyev,male,A,Graduate Student,developed,10,2,71
+Austin L. Toombs,male,W_NL,Lecturer,developed,11,2,79
+Axel Roesler,male,W_NL,Associate Professor,developed,11,2,81
+Baris Serim,male,A,Researcher,developed,5,2,84
+Bernhard E. Riecke,male,W_NL,Associate Professor,developed,28,2,94
+Betsy DiSalvo,female,W_NL,Associate Professor,developed,18,2,95
+Bin Yu,male,A,Professor,developed,62,2,98
+Bjrn Hartmann,male,W_NL,Associate Professor,developed,47,2,99
+Boriana Koleva,female,A,Associate Professor,developed,26,2,103
+Brendan Walker,male,W_NL,Professor,developed,24,2,105
+Carman Neustaedter,female,W_NL,Professor,developed,37,2,119
+Celalettin Yurdakul,male,A,Graduate Student,developed,5,2,122
+Chris Elsden,male,W_NL,Researcher,developed,10,2,127
+Chris Greenhalgh,male,W_NL,Professor,developed,56,2,129
+Chuan-Che Jeff Huang,male,A,Graduate Student,developed,3,2,140
+Clint Zeagler,male,W_NL,Researcher,developed,13,2,142
+Cynthia L. Bennett,female,B_NL,Researcher,developed,14,2,149
+Dan Cosley,male,W_NL,Associate Professor,developed,41,2,154
+Daniel Carter,male,W_NL,Lecturer,developed,39,2,157
+Daniel Herron,male,W_NL,Professor,developed,3,2,160
+Daniel Jackson,male,B_NL,Researcher,developed,47,2,161
+Daniel Leithinger,male,W_NL,Lecturer,developed,21,2,162
+Daniel Szafir,male,W_NL,Lecturer,developed,11,2,165
+Daniel Vogel,male,W_NL,Associate Professor,developed,25,2,167
+Danielle Wilde,female,W_NL,Associate Professor,developed,13,2,171
+Darcy Fehlings,male,W_NL,Professor,developed,38,2,173
+Darren Guinness,male,W_NL,Graduate Student,developed,7,2,175
+David A. Harley,male,W_NL,Lecturer,developed,9,2,176
+David A. Mellis,male,W_NL,Researcher,developed,15,2,177
+David A. Robb,male,W_NL,Researcher,developed,9,2,178
+David C. Atkins,male,W_NL,Researcher,developed,58,2,180
+David Chatting,male,W_NL,Graduate Student,developed,11,2,181
+David Marino,male,W_NL,Graduate Student,developed,3,2,186
+Dimitrios Raptis,male,W_NL,Associate Professor,developed,11,2,196
+Dmitry Dereshev,male,W_NL,Researcher,developed,2,2,198
+Doenja Oogjes,female,W_NL,Graduate Student,developed,7,2,199
+Doroth Smit,female,W_NL,Graduate Student,developed,5,2,202
+Edward Lank,male,W_NL,Professor,developed,24,2,206
+Effie Lai-Chong Law,female,A,Professor,developed,30,2,208
+Eleonora Mencarini,female,HL,Researcher,developed,5,2,213
+Elisa Giaccardi,female,HL,Professor,developed,25,2,214
+Elsa Kosmack-Vaara,female,HL,Graduate Student,developed,8,2,220
+Emily Cramer,female,W_NL,Lecturer,developed,7,2,223
+Erik Stolterman,male,W_NL,Professor,developed,38,2,230
+Erin Murphy,female,W_NL,Associate Professor,developed,-1,2,231
+EunJin Kim,female,A,Professor,developed,26,2,234
+Foad Hamidi,male,A,Lecturer,developed,8,2,248
+Francesco Gianni,male,W_NL,Graduate Student,developed,6,2,250
+Gabriela Avram,female,HL,Lecturer,developed,15,2,261
+Gary Hsieh,male,A,Associate Professor,developed,24,2,262
+Georgios Marentakis,male,W_NL,Researcher,developed,10,2,267
+Gerard Wilkinson,male,W_NL,Professor,developed,4,2,270
+Gillian M. McCarthy,female,W_NL,Lecturer,developed,2,2,273
+Giulio Jacucci,male,HL,Professor,developed,42,2,274
+Henry Lin,male,A,Graduate Student,developed,7,2,294
+Hiroshi Ishii,male,A,Professor,developed,67,2,299
+Ho Ryun Song,female,A,Graduate Student,developed,0,2,300
+Houda El mimouni,female,A,Graduate Student,developed,4,2,302
+Hsin-Liu Cindy Kao,female,A,Lecturer,developed,10,2,304
+Ingrid Pettersson,female,B_NL,Graduate Student,developed,6,2,315
+Inrak Choi,male,A,Graduate Student,developed,8,2,317
+Ivan Marsic,male,HL,Professor,developed,29,2,318
+Jack Shen-Kuen Chang,male,A,Researcher,developed,6,2,321
+James R. Wallace,male,W_NL,Associate Professor,developed,16,2,324
+Janet van der Linden,female,W_NL,Professor,developed,17,2,329
+Janice McLaughlin,female,W_NL,Professor,developed,20,2,330
+Janis Lena Meissner,male,W_NL,Graduate Student,developed,5,2,331
+Jason Alexander,male,W_NL,Lecturer,developed,29,2,334
+Jason Ellis,male,W_NL,Professor,developed,23,2,335
+Jeeeun Kim,female,A,Lecturer,developed,9,2,341
+Jeffrey P. Bigham,male,W_NL,Associate Professor,developed,42,2,344
+Jennifer Gabrys,female,W_NL,Professor,developed,16,2,346
+Jennifer Mankoff,female,W_NL,Professor,developed,48,2,347
+Jesper Kjeldskov,male,W_NL,Professor,developed,34,2,356
+Jessica Hammer,female,W_NL,Lecturer,developed,12,2,358
+Jocelyn Spence,female,B_NL,Researcher,developed,6,2,370
+Jodi Forlizzi,female,W_NL,Professor,developed,68,2,371
+Joe Marshall,male,B_NL,Researcher,developed,17,2,373
+John Vines,male,W_NL,Professor,developed,22,2,377
+Jordan Beck,male,W_NL,Lecturer,developed,6,2,386
+Joseph Seering,male,W_NL,Graduate Student,developed,7,2,394
+Julia Bullard,female,B_NL,Lecturer,developed,7,2,401
+Jun Hu,male,A,Associate Professor,developed,22,2,407
+Kaj Grnbk,male,A,Professor,developed,40,2,417
+Kari Kuutti,female,W_NL,Professor,developed,31,2,419
+Kate Howland,female,W_NL,Lecturer,developed,12,2,422
+Katerina Gorkovenko,female,W_NL,Researcher,developed,4,2,424
+Ken Nakagaki,male,A,Graduate Student,developed,8,2,433
+Khalil Klouche,male,A,Graduate Student,developed,5,2,437
+Kristina Knaving,female,W_NL,Graduate Student,developed,5,2,442
+Kyle Montague,male,W_NL,Lecturer,developed,11,2,447
+Laura Devendorf,female,W_NL,Lecturer,developed,10,2,449
+Laurens Boer,male,W_NL,Associate Professor,developed,8,2,452
+Leah Kulp,female,W_NL,Graduate Student,developed,3,2,455
+Lennart E. Nacke,male,W_NL,Associate Professor,developed,42,2,458
+Lenneke Kuijer,female,W_NL,Lecturer,developed,11,2,460
+Lin-Lin Chen,female,A,Professor,developed,15,2,465
+Loe Feijs,male,W_NL,Professor,developed,25,2,467
+Lora Oehlberg,female,W_NL,Lecturer,developed,17,2,470
+Lorenz Cuno Klopfenstein,male,A,Researcher,developed,7,2,472
+Lucas Colusso,male,HL,Graduate Student,developed,4,2,477
+Luigina Ciolfi,female,W_NL,Professor,developed,25,2,478
+Luis A. Leiva,male,HL,Researcher,developed,14,2,479
+Manfred Tscheligi,male,W_NL,Professor,developed,41,2,485
+Mark W. Newman,male,W_NL,Associate Professor,developed,38,2,500
+Martin Murer,male,W_NL,Graduate Student,developed,13,2,505
+Mathias Funk,male,W_NL,Associate Professor,developed,14,2,506
+Melanie Baljko,female,W_NL,Associate Professor,developed,11,2,512
+Michael Eagle,male,W_NL,Lecturer,developed,15,2,517
+Michael Nitsche,male,W_NL,Associate Professor,developed,17,2,520
+Michael Worboys,male,W_NL,Professor,developed,40,2,526
+Mikael B. Skov,male,W_NL,Professor,developed,28,2,532
+Mike Fraser,male,W_NL,Professor,developed,27,2,534
+Neha Kumar,female,A,Lecturer,developed,55,2,550
+Nels Oscar,male,HL,Graduate Student,developed,32,2,553
+Nick Taylor,male,B_NL,Lecturer,developed,21,2,554
+Niels van Berkel,male,W_NL,Lecturer,developed,11,2,557
+Oliver S. Schneider,male,W_NL,Lecturer,developed,13,2,568
+Otmar Hilliges,male,B_NL,Associate Professor,developed,50,2,569
+Paola Venuti,female,HL,Professor,developed,37,2,573
+Paul Bucci,male,W_NL,Graduate Student,developed,4,2,580
+Paul Marshall,male,W_NL,Lecturer,developed,36,2,585
+Paul Worgan,male,W_NL,Researcher,developed,5,2,588
+Pawel W. Wozniak,male,W_NL,Lecturer,developed,14,2,589
+Peter Dalsgaard,male,W_NL,Professor,developed,26,2,592
+Preben Hansen,male,W_NL,Associate Professor,developed,24,2,607
+Richard Anderson,male,W_NL,Professor,developed,93,2,615
+Richard Mortier,male,W_NL,Lecturer,developed,37,2,616
+Richmond Y. Wong,male,A,Graduate Student,developed,7,2,617
+Rikke Hagensby Jensen,female,W_NL,Researcher,developed,5,2,620
+Rina R. Wehbe,female,HL,Graduate Student,developed,9,2,621
+Robert Phillips,male,W_NL,Lecturer,developed,24,2,623
+Ron Wakkary,male,W_NL,Professor,developed,27,2,628
+Ronald Metoyer,male,B_NL,Associate Professor,developed,16,2,629
+Rui Pan,male,A,Graduate Student,developed,7,2,633
+Rui Zhou,male,A,Graduate Student,developed,19,2,634
+Sabrina Hauser,female,W_NL,Researcher,developed,10,2,636
+Saiph Savage,male,B_NL,Lecturer,developed,16,2,637
+Samuel Huron,male,HL,Associate Professor,developed,12,2,638
+Sara Nabil,female,A,Graduate Student,developed,4,2,646
+Sarah Homewood,female,W_NL,Graduate Student,developed,3,2,647
+Sarah Martindale,female,W_NL,Researcher,developed,6,2,648
+Sarah Wiseman,female,W_NL,Lecturer,developed,7,2,650
+Scott Bateman,male,W_NL,Associate Professor,developed,21,2,655
+Scott E. Hudson,male,W_NL,Professor,developed,67,2,657
+Scott Gilliland,male,W_NL,Researcher,developed,14,2,658
+Sean A. Munson,male,W_NL,Associate Professor,developed,34,2,661
+Sean Follmer,male,W_NL,Lecturer,developed,25,2,662
+Sean McGrath,male,W_NL,Lecturer,developed,5,2,664
+Sergi Rotger-Griful,male,A,Researcher,developed,7,2,670
+Shannon Meja,female,HL,Lecturer,developed,8,2,672
+Shaun K. Kane,male,W_NL,Associate Professor,developed,36,2,676
+Shrikanth Narayanan,male,A,Professor,developed,89,2,684
+Simo Hosio,male,A,Associate Professor,developed,25,2,687
+Simone Sulpizio,male,A,Researcher,developed,12,2,690
+Stefan Poslad,male,W_NL,Associate Professor,developed,24,2,697
+Stefan Rennick-Egglestone,male,W_NL,Researcher,developed,18,2,698
+Stefano Padilla,male,HL,Lecturer,developed,9,2,699
+Steve Benford,male,B_NL,Professor,developed,71,2,702
+Svetlana Yarosh,female,W_NL,Lecturer,developed,19,2,707
+T.C. Nicholas Graham,male,B_NL,Professor,developed,27,2,710
+Thomas Grah,male,W_NL,Associate Professor,developed,3,2,718
+Thomas Ploetz,male,W_NL,Associate Professor,developed,33,2,720
+Thomas Ploetz,male,W_NL,Lecturer,developed,33,2,719
+Thomas S. Methven,male,W_NL,Researcher,developed,7,2,721
+Thomas van de Werff,male,W_NL,Graduate Student,developed,3,2,722
+Timothy Merritt,male,W_NL,Associate Professor,developed,14,2,725
+Timothy Welsh,male,W_NL,Professor,developed,27,2,726
+Tobias Sonne,male,W_NL,Researcher,developed,9,2,728
+Tom Bartindale,male,A,Researcher,developed,13,2,730
+Tom Jenkins,male,B_NL,Lecturer,developed,12,2,731
+Tom Yeh,male,A,Lecturer,developed,25,2,732
+Trevor Hogan,male,B_NL,Lecturer,developed,8,2,738
+Uta Hinrichs,female,W_NL,Lecturer,developed,18,2,742
+Vasiliki Tsaknaki,female,A,Researcher,developed,8,2,748
+Wendy Ju,female,A,Lecturer,developed,28,2,763
+Wendy Moncur,female,B_NL,Professor,developed,17,2,764
+Yanan Wang,female,A,Graduate Student,developed,14,2,772
+Yasamin Heshmat,female,A,Graduate Student,developed,4,2,773
+Yvonne Jansen,female,W_NL,Researcher,developed,18,2,793
+Aare Puussaar,male,W_NL,Graduate Student,developed,3,3,0
+Aaron Hettinger,male,W_NL,Lecturer,developed,17,3,1
+Aaron Quigley,male,W_NL,Professor,developed,24,3,2
+Aaron Shaw,male,W_NL,Associate Professor,developed,18,3,3
+Abigail Durrant,female,W_NL,Professor,developed,15,3,6
+Adam Joinson,male,W_NL,Professor,developed,39,3,7
+Aditya Johri,male,A,Professor,developed,22,3,9
+Adrian Friday,male,W_NL,Professor,developed,44,3,11
+Ailie Fraser,female,W_NL,Graduate Student,developed,6,3,14
+Airi Lampinen,female,A,Associate Professor,developed,21,3,15
+Aku Visuri,male,A,Graduate Student,developed,6,3,16
+Alan Chamberlain,male,W_NL,Researcher,developed,18,3,18
+Alex Sciuto,male,HL,Graduate Student,developed,5,3,22
+Alexander Sirotkin,male,W_NL,Researcher,developed,20,3,23
+Alexis Hiniker,male,W_NL,Lecturer,developed,12,3,24
+Amanda Lazar,female,W_NL,Lecturer,developed,13,3,29
+Amanda Waterman,female,W_NL,Associate Professor,developed,11,3,30
+Amy Hurst,female,W_NL,Associate Professor,developed,30,3,31
+Ana Javornik,female,W_NL,Lecturer,developed,9,3,32
+Anastasia Bezerianos,female,HL,Lecturer,developed,22,3,33
+Andrew Ault,male,W_NL,Professor,developed,29,3,38
+Andrew Berry,male,W_NL,Graduate Student,developed,7,3,40
+Andrew Christie,male,W_NL,Researcher,developed,42,3,41
+Andrew Koh,male,A,Lecturer,developed,6,3,42
+Andrew Monk,male,W_NL,Professor,developed,50,3,43
+Andrew Myers,male,W_NL,Professor,developed,51,3,44
+Angelisa Plane,female,W_NL,Graduate Student,developed,4,3,47
+Anita Vogl,female,W_NL,Researcher,developed,8,3,50
+Anna Cox,female,W_NL,Professor,developed,33,3,51
+Anna Vallgrda,female,HL,Associate Professor,developed,13,3,53
+Anne Roudaut,female,W_NL,Associate Professor,developed,17,3,56
+Anne Turner,female,W_NL,Associate Professor,developed,27,3,57
+Annika Waern,female,W_NL,Professor,developed,25,3,58
+Annuska Zolyomi,female,A,Graduate Student,developed,8,3,59
+Anthony Vance,male,W_NL,Associate Professor,developed,23,3,61
+Apu Kapadia,male,A,Associate Professor,developed,36,3,63
+Ari Schlesinger,male,W_NL,Graduate Student,developed,5,3,64
+Aritra Dasgupta,male,A,Lecturer,developed,11,3,67
+Arkaitz Zubiaga,male,HL,Lecturer,developed,26,3,68
+Arturo Deza,male,HL,Graduate Student,developed,3,3,72
+Ashley Colley,female,W_NL,Researcher,developed,16,3,75
+Audrey Girouard,female,W_NL,Associate Professor,developed,22,3,78
+Axel Antoine,male,W_NL,Graduate Student,developed,2,3,80
+Batya Friedman,female,W_NL,Professor,developed,46,3,87
+Ben Kirman,male,A,Graduate Student,developed,20,3,88
+Benjamin Gorman,male,W_NL,Lecturer,developed,3,3,92
+Benjamin Mako Hill,male,W_NL,Lecturer,developed,19,3,93
+bernard Oriola,male,W_NL,Researcher,developed,12,3,799
+Bettina Nissen,female,W_NL,Researcher,developed,8,3,96
+Bhargav Pandya,male,A,Graduate Student,developed,6,3,97
+Blase Ur,male,W_NL,Lecturer,developed,29,3,100
+Bonnie Anderson,female,W_NL,Professor,developed,15,3,102
+Brad Myers,male,W_NL,Professor,developed,85,3,104
+Brendan Walker,male,W_NL,Professor,developed,23,3,106
+Brent Hecht,male,W_NL,Associate Professor,developed,30,3,108
+Brian Bailey,male,W_NL,Professor,developed,41,3,110
+Brock Kirwan,male,W_NL,Associate Professor,developed,27,3,111
+Bruno Bousquet,male,W_NL,Professor,developed,25,3,114
+Bryan Semaan,male,W_NL,Lecturer,developed,16,3,116
+Catherine Plaisant,female,W_NL,Researcher,developed,62,3,120
+Cdric Fleury,male,W_NL,Associate Professor,developed,11,3,150
+Cecil Piya,male,A,Graduate Student,developed,8,3,121
+Cheng Zhang,male,A,Professor,developed,113,3,124
+Chia-Fang Chung,male,A,Lecturer,developed,9,3,125
+Chris Bopp,male,W_NL,Graduate Student,developed,5,3,126
+Chris Elsden,male,W_NL,Graduate Student,developed,10,3,128
+Chris Greenhalgh,male,W_NL,Professor,developed,56,3,130
+Chris Harrison,male,W_NL,Professor,developed,43,3,131
+Chris Speed,male,W_NL,Professor,developed,17,3,132
+Christian Burgers,male,W_NL,Associate Professor,developed,18,3,133
+Christian Janssen,male,W_NL,Lecturer,developed,11,3,134
+Christine Dierk,female,W_NL,Graduate Student,developed,4,3,136
+Christopher Dantec,male,W_NL,Associate Professor,developed,21,3,137
+Christopher Fennell,male,W_NL,Professor,developed,18,3,138
+Cliff Lampe,male,W_NL,Professor,developed,47,3,141
+Conor Linehan,male,W_NL,Lecturer,developed,22,3,143
+Corina Sas,female,HL,Professor,developed,26,3,144
+Coye Cheshire,male,W_NL,Professor,developed,24,3,145
+Craig Zilles,male,W_NL,Associate Professor,developed,34,3,146
+Cynthia Bennett,female,W_NL,Graduate Student,developed,13,3,148
+Damon Bahr,male,W_NL,Associate Professor,developed,10,3,152
+Daniel Ashbrook,male,W_NL,Associate Professor,developed,22,3,155
+Daniel Epstein,male,W_NL,Lecturer,developed,13,3,158
+Daniel Mende,male,HL,Lecturer,developed,22,3,163
+Daniel Turner-Evans,male,W_NL,Researcher,developed,20,3,166
+Daniel Vogel,male,W_NL,Associate Professor,developed,25,3,168
+Daniela Retelny,female,HL,Graduate Student,developed,9,3,170
+Danna Gurari,female,W_NL,Lecturer,developed,9,3,172
+Darren Gergle,male,W_NL,Professor,developed,37,3,174
+David Ebert,male,W_NL,Professor,developed,51,3,182
+David Kirk,male,W_NL,Professor,developed,63,3,184
+David Larcker,male,W_NL,Professor,developed,74,3,185
+Denis Kalkofen,male,W_NL,Lecturer,developed,22,3,189
+Dennis Reidsma,male,W_NL,Lecturer,developed,23,3,190
+Denzil Ferreira,male,HL,Researcher,developed,25,3,191
+Derek Reilly,male,W_NL,Associate Professor,developed,16,3,193
+Diana Neal,female,B_NL,Researcher,developed,6,3,194
+Donald Porter,male,W_NL,Associate Professor,developed,21,3,200
+Eelke Folmer,male,W_NL,Professor,developed,26,3,207
+Ehud Sharlin,male,A,Professor,developed,22,3,209
+Elena Fersman,female,HL,Researcher,developed,13,3,211
+Elena Simperl,female,W_NL,Professor,developed,32,3,212
+Elisa Giaccardi,female,HL,Professor,developed,25,3,215
+Elissa Redmiles,female,W_NL,Lecturer,developed,10,3,217
+Elizabeth Gerber,female,W_NL,Associate Professor,developed,26,3,218
+Ellie Harmon,female,W_NL,Lecturer,developed,10,3,219
+Emery Berger,male,W_NL,Professor,developed,30,3,221
+Emilee Rader,female,W_NL,Associate Professor,developed,18,3,222
+Emily Whiting,female,W_NL,Lecturer,developed,18,3,224
+Emma Flynn,female,W_NL,Professor,developed,29,3,225
+Emma Spiro,female,W_NL,Lecturer,developed,18,3,226
+Eric Paulos,male,W_NL,Associate Professor,developed,42,3,228
+Erik Graaff,male,W_NL,Professor,developed,25,3,229
+Euan Freeman,male,W_NL,Lecturer,developed,7,3,232
+Eureka Foong,female,A,Graduate Student,developed,3,3,235
+Eytan Adar,male,W_NL,Associate Professor,developed,46,3,238
+Fanny Chevalier,female,W_NL,Lecturer,developed,23,3,241
+Fares Kayali,male,A,Professor,developed,9,3,242
+Fisayo Sangogboye,male,A,Lecturer,developed,9,3,245
+Francesca Vitale,female,W_NL,Researcher,developed,7,3,249
+Francis Quek,male,A,Professor,developed,37,3,252
+Francois Guimbretiere,male,W_NL,Associate Professor,developed,36,3,254
+Franziska Roesner,female,W_NL,Associate Professor,developed,24,3,256
+Frdric Giraud,male,W_NL,Associate Professor,developed,18,3,257
+Gabriel Brostow,male,W_NL,Professor,developed,27,3,258
+Gabriel Culbertson,male,W_NL,Graduate Student,developed,4,3,259
+Geoff Kaufman,male,W_NL,Lecturer,developed,11,3,265
+Gerald Wilkinson,male,W_NL,Professor,developed,54,3,268
+Geraldine Fitzpatrick,female,W_NL,Professor,developed,46,3,269
+Geri Gay,female,W_NL,Professor,developed,53,3,271
+Gillian Hayes,female,W_NL,Professor,developed,43,3,272
+Grace Bastin,female,W_NL,Graduate Student,developed,1,3,277
+Hannu Korhonen,male,A,Researcher,developed,30,3,283
+Hans-Christian Jetter,male,W_NL,Professor,developed,19,3,284
+Hee Lee,female,A,Lecturer,developed,10,3,289
+Helena Mentis,female,W_NL,Associate Professor,developed,22,3,292
+Hellen Mendes,female,HL,Graduate Student,developed,4,3,293
+Howell Istance,male,W_NL,Researcher,developed,17,3,303
+Ian Stavness,male,W_NL,Associate Professor,developed,22,3,313
+IV Ramakrishnan,male,A,Professor,developed,43,3,312
+Jaakko Hakulinen,male,A,Researcher,developed,22,3,319
+Jacob Wobbrock,male,W_NL,Professor,developed,61,3,322
+James Wallace,male,W_NL,Associate Professor,developed,16,3,325
+Jamie Mahoney,male,W_NL,Graduate Student,developed,3,3,326
+Jamy Li,male,A,Lecturer,developed,12,3,327
+Janne Kollenburg,female,W_NL,Graduate Student,developed,4,3,332
+Janne Lindqvist,female,W_NL,Associate Professor,developed,23,3,333
+Jason Yip,male,A,Lecturer,developed,19,3,337
+Jean-Paul Guillet,male,W_NL,Associate Professor,developed,13,3,339
+Jed Brubaker,male,W_NL,Lecturer,developed,21,3,340
+Jeffery Jenkins,male,W_NL,Professor,developed,25,3,342
+Jennifer Pearson,female,W_NL,Lecturer,developed,14,3,348
+Jens Emil Groenbaek,male,W_NL,Graduate Student,developed,5,3,349
+Jeremy Bailenson,male,W_NL,Professor,developed,64,3,352
+Jeremy Cooperstock,male,W_NL,Professor,developed,32,3,353
+Jeremy Foote,male,W_NL,Lecturer,developed,3,3,354
+Jesper Kjeldskov,male,W_NL,Professor,developed,33,3,357
+Jessica Hammer,female,W_NL,Lecturer,developed,12,3,359
+Jill Palzkill Woelfer,female,W_NL,Graduate Student,developed,12,3,362
+Jin Ha Lee,male,A,Associate Professor,developed,20,3,363
+Jo Briggs,female,W_NL,Associate Professor,developed,7,3,366
+Jo-Anne Bichard,male,W_NL,Researcher,developed,12,3,367
+Joan Chang,female,A,Graduate Student,developed,6,3,368
+Joanna McGrenere,female,W_NL,Professor,developed,33,3,369
+Jodi Forlizzi,female,W_NL,Professor,developed,65,3,372
+John Vines,male,W_NL,Professor,developed,21,3,378
+John Williamson,male,W_NL,Lecturer,developed,46,3,379
+John Zimmerman,male,W_NL,Professor,developed,48,3,380
+Jon Froehlich,male,W_NL,Associate Professor,developed,38,3,381
+Jonathan Hook,male,W_NL,Graduate Student,developed,15,3,382
+Jonna Hakkila,female,W_NL,Professor,developed,27,3,384
+Jordan Tewell,male,W_NL,Graduate Student,developed,5,3,387
+Jos Cabaas,male,HL,Graduate Student,developed,3,3,396
+Jose Such,male,HL,Associate Professor,developed,20,3,389
+Joseph Chee Chang,male,A,Graduate Student,developed,6,3,390
+Joseph LaViola,male,W_NL,Professor,developed,41,3,391
+Joseph Malloch,male,W_NL,Lecturer,developed,14,3,393
+Joshua Smith,male,W_NL,Professor,developed,89,3,395
+Juan Carlos Vasquez,male,HL,Professor,developed,56,3,397
+Judith Amores,female,HL,Graduate Student,developed,8,3,399
+Judith Good,female,W_NL,Professor,developed,28,3,400
+Julian Rojas,male,HL,Graduate Student,developed,11,3,402
+Julie Barnett,female,W_NL,Professor,developed,39,3,403
+Julie Kientz,female,W_NL,Professor,developed,39,3,404
+Julie Williamson,female,W_NL,Lecturer,developed,12,3,406
+Jungong Han,male,A,Associate Professor,developed,33,3,409
+Jussi Jokinen,male,W_NL,Researcher,developed,12,3,411
+Jussi Rantala,male,HL,Researcher,developed,16,3,412
+Kai Lukoff,male,A,Graduate Student,developed,3,3,416
+Karon MacLean,female,W_NL,Professor,developed,43,3,420
+Kate Hennessy,female,W_NL,Associate Professor,developed,13,3,421
+Kate Starbird,female,W_NL,Professor,developed,26,3,423
+Katherine Isbister,female,W_NL,Professor,developed,29,3,425
+Kathryn Orzech,female,W_NL,Researcher,developed,11,3,426
+Kathy Davis,female,W_NL,Researcher,developed,30,3,427
+Keith Edwards,male,W_NL,Professor,developed,58,3,429
+Keith Vertanen,male,W_NL,Associate Professor,developed,18,3,430
+Kelly Widdicks,female,W_NL,Graduate Student,developed,3,3,431
+Ken Koedinger,male,W_NL,Professor,developed,80,3,432
+Kesler Tanner,male,W_NL,Graduate Student,developed,5,3,436
+Konstantina Vasileiou,male,A,Graduate Student,developed,9,3,440
+Kyle Rector,male,W_NL,Lecturer,developed,15,3,448
+Laura Pina,female,HL,Graduate Student,developed,6,3,450
+Lauren Westendorf,female,W_NL,Researcher,developed,6,3,451
+Laurent Grisoni,male,W_NL,Professor,developed,19,3,453
+Leah Findlater,female,W_NL,Associate Professor,developed,32,3,454
+Leah Sprain,female,W_NL,Lecturer,developed,13,3,456
+Lena Mamykina,female,A,Associate Professor,developed,21,3,457
+Lennart Nacke,male,W_NL,Associate Professor,developed,40,3,459
+Leyla Norooz,female,W_NL,Graduate Student,developed,9,3,461
+Li Fei-Fei,female,A,Professor,developed,95,3,463
+Lonni Besanon,male,W_NL,Graduate Student,developed,7,3,469
+Lorrie Faith Cranor,female,W_NL,Professor,developed,89,3,473
+LouAnne Boyd,female,W_NL,Graduate Student,developed,9,3,474
+Louise Barkhuus,female,W_NL,Associate Professor,developed,26,3,475
+Lyn Bartram,female,W_NL,Associate Professor,developed,27,3,481
+m.c. schraefel,male,W_NL,Professor,developed,25,3,800
+Madeline Balaam,female,W_NL,Associate Professor,developed,19,3,482
+Majed Al Zayer,male,A,Graduate Student,developed,4,3,483
+Manaswi Saha,female,A,Graduate Student,developed,6,3,484
+Manuela Barreto,female,HL,Professor,developed,32,3,486
+Manuela Zger,female,HL,Graduate Student,developed,4,3,487
+Margaret Barry,female,W_NL,Professor,developed,42,3,491
+Margaret Burnett,female,W_NL,Professor,developed,54,3,492
+Margaret Satterthwaite,female,W_NL,Professor,developed,15,3,493
+Maria Hwang,female,A,Lecturer,developed,1,3,495
+Marianne Petersen,female,W_NL,Associate Professor,developed,20,3,496
+Marissa Burgermaster,female,W_NL,Lecturer,developed,6,3,497
+Mark Bradford,male,W_NL,Professor,developed,58,3,499
+Markku Turunen,male,A,Professor,developed,24,3,501
+Markus Tatzgern,male,W_NL,Professor,developed,11,3,503
+Matt Jones,male,W_NL,Professor,developed,33,3,507
+Max Van Kleek,male,W_NL,Associate Professor,developed,27,3,509
+Md Haque,male,A,Graduate Student,developed,2,3,510
+Mehdi Ammi,male,A,Professor,developed,19,3,511
+Melissa Mazmanian,female,W_NL,Associate Professor,developed,18,3,513
+Merel Jung,female,A,Lecturer,developed,8,3,514
+Michael Bernstein,male,W_NL,Associate Professor,developed,43,3,515
+Michael Devito,male,W_NL,Graduate Student,developed,5,3,516
+Michael Gleicher,male,W_NL,Professor,developed,55,3,518
+Michael Nebeling,male,W_NL,Lecturer,developed,17,3,519
+Michael Raitor,male,W_NL,Graduate Student,developed,5,3,521
+Michael Rivera,male,HL,Graduate Student,developed,3,3,522
+Michal Luria,male,W_NL,Graduate Student,developed,4,3,527
+Michelle Mazurek,female,W_NL,Lecturer,developed,26,3,529
+Midas Nouwens,male,W_NL,Graduate Student,developed,3,3,530
+Miguel Nacenta,male,HL,Lecturer,developed,27,3,531
+Mikael Skov,male,W_NL,Professor,developed,28,3,533
+Minjuan Wang,female,A,Professor,developed,44,3,535
+Miriam Sturdee,female,W_NL,Researcher,developed,7,3,536
+Mohsen Kamalzadeh,male,A,Graduate Student,developed,4,3,538
+Mona Guha,female,A,Researcher,developed,21,3,539
+Mor Naaman,male,A,Associate Professor,developed,55,3,542
+Nadia Bianchi-Berthouze,female,W_NL,Professor,developed,37,3,545
+Nancy Whittier,female,W_NL,Professor,developed,21,3,547
+Nazanin Andalibi,female,A,Lecturer,developed,11,3,548
+Nediyana Daskalova,female,HL,Graduate Student,developed,5,3,549
+Neil Spring,male,W_NL,Professor,developed,40,3,551
+Neill Campbell,male,W_NL,Associate Professor,developed,10,3,552
+ngel Cuevas,male,HL,Graduate Student,developed,16,3,803
+Nicolas Christin,male,W_NL,Associate Professor,developed,45,3,556
+Nigini Oliveira,female,A,Researcher,developed,5,3,558
+Niklas Elmqvist,male,W_NL,Professor,developed,40,3,559
+Nikola Banovic,male,W_NL,Lecturer,developed,12,3,560
+Oded Nov,male,A,Professor,developed,33,3,564
+Oliver Bates,male,W_NL,Researcher,developed,14,3,565
+Oliver Haimson,male,W_NL,Lecturer,developed,14,3,566
+Palle Dahlstedt,male,W_NL,Associate Professor,developed,13,3,570
+Pamela Wisniewski,female,W_NL,Lecturer,developed,20,3,571
+Pardis Emami Naeini,female,A,Graduate Student,developed,5,3,574
+Paul Bucci,male,W_NL,Graduate Student,developed,4,3,581
+Paul Clough,male,W_NL,Professor,developed,38,3,582
+Paul Coulton,male,W_NL,Professor,developed,29,3,583
+Per Ola Kristensson,male,W_NL,Professor,developed,37,3,590
+Pernille Bjorn,female,W_NL,Professor,developed,20,3,591
+Peter Krogh,male,W_NL,Professor,developed,14,3,594
+Peter Wright,male,W_NL,Professor,developed,59,3,597
+Philippe Palanque,male,A,Professor,developed,43,3,599
+Phoebe Sengers,female,W_NL,Associate Professor,developed,37,3,600
+Pierre Dillenbourg,male,W_NL,Professor,developed,56,3,604
+Predrag Klasnja,male,A,Lecturer,developed,28,3,608
+Rachel Clarke,female,W_NL,Researcher,developed,11,3,610
+Radu-Daniel Vatavu,male,A,Professor,developed,23,3,611
+Rebecca Grinter,female,W_NL,Professor,developed,60,3,614
+Rick Wash,male,W_NL,Associate Professor,developed,22,3,618
+Robert Xiao,male,A,Lecturer,developed,21,3,624
+Roberto Hoyle,male,HL,Lecturer,developed,8,3,625
+Roel Vertegaal,male,W_NL,Professor,developed,40,3,626
+Roshan Peiris,male,A,Lecturer,developed,12,3,631
+Rubn Cuevas,male,HL,Associate Professor,developed,19,3,632
+Sandeep Kuttal,male,A,Lecturer,developed,8,3,641
+Sandeep Soni,male,A,Graduate Student,developed,4,3,642
+Sanorita Dey,female,A,Graduate Student,developed,3,3,645
+Sarah alaoui,female,W_NL,Lecturer,developed,12,3,651
+Sarah McRoberts,female,W_NL,Graduate Student,developed,5,3,649
+Sarita Schoenebeck,female,A,Associate Professor,developed,33,3,652
+Saul Greenberg,male,W_NL,Professor,developed,88,3,653
+Sayamindu Dasgupta,male,A,Lecturer,developed,10,3,654
+Scott Bateman,male,W_NL,Associate Professor,developed,21,3,656
+Scott Hudson,male,W_NL,Professor,developed,67,3,659
+Sean Follmer,male,W_NL,Lecturer,developed,24,3,663
+Sean Munson,male,W_NL,Associate Professor,developed,32,3,665
+Sean Seaman,male,W_NL,Researcher,developed,12,3,666
+Sebastian Boring,male,W_NL,Professor,developed,27,3,667
+Selina Sutton,female,W_NL,Graduate Student,developed,5,3,668
+Selma Sabanovic,female,W_NL,Associate Professor,developed,22,3,669
+Shaowen Bardzell,male,A,Professor,developed,29,3,673
+Sharon Chu,female,A,Lecturer,developed,9,3,674
+Shashank Ahire,male,A,Researcher,developed,5,3,675
+Shaun Lawson,male,W_NL,Professor,developed,26,3,677
+Shion Guha,male,A,Lecturer,developed,14,3,682
+Silvana Pirro,female,HL,Graduate Student,developed,3,3,686
+Sophie Sydow,female,W_NL,Graduate Student,developed,3,3,692
+Sowmya Somanath,female,A,Lecturer,developed,5,3,693
+Srinath Sridhar,male,A,Graduate Student,developed,13,3,694
+Sriram Subramaniam,male,A,Professor,developed,59,3,695
+Stefano Padilla,male,HL,Lecturer,developed,9,3,700
+Steve Goldstein,male,W_NL,Professor,developed,49,3,703
+Steve Hodges,male,W_NL,Researcher,developed,59,3,704
+Steven Gill,male,W_NL,Associate Professor,developed,54,3,705
+Svetlana Yarosh,female,W_NL,Lecturer,developed,18,3,708
+Tamara Clegg,female,W_NL,Associate Professor,developed,15,3,712
+Tara Matthews,female,W_NL,Professor,developed,26,3,713
+Thammathip Piumsomboon,male,A,Lecturer,developed,13,3,714
+Thecla Schiphorst,female,W_NL,Professor,developed,21,3,716
+Toby Li,male,A,Graduate Student,developed,8,3,729
+Tomi Heimonen,male,W_NL,Lecturer,developed,13,3,733
+Tony Martinez,male,HL,Professor,developed,30,3,736
+Torsten Mller,male,W_NL,Professor,developed,41,3,737
+Tuck Wah Leong,male,A,Associate Professor,developed,20,3,740
+Vanessa Evers,female,B_NL,Professor,developed,29,3,745
+Vanessa Thomas,female,W_NL,Lecturer,developed,8,3,746
+Varun Mallampalli,male,A,Graduate Student,developed,2,3,747
+Varun Mallampalli,male,A,Graduate Student,developed,2,3,747
+Varun Mallampalli,male,A,Graduate Student,developed,2,3,747
+Victoria McArthur,female,W_NL,Associate Professor,developed,9,3,753
+Vineet Pandey,male,A,Graduate Student,developed,7,3,756
+Wai-Tat Fu,male,A,Professor,developed,28,3,758
+Wanda Pratt,female,W_NL,Professor,developed,45,3,760
+Wendy Moncur,female,W_NL,Professor,developed,17,3,765
+William Symmans,male,W_NL,Professor,developed,81,3,767
+Xinning Gui,female,A,Lecturer,developed,9,3,771
+Yen-Chia Hsu,female,A,Researcher,developed,4,3,774
+Yi-Luen Do,male,A,Professor,developed,34,3,776
+Yifan Gao,male,A,Researcher,developed,19,3,777
+Yoav Artzi,male,W_NL,Lecturer,developed,20,3,779
+Yu Ding,male,A,Professor,developed,65,3,786
+Yubo Kou,male,A,Lecturer,developed,10,3,787
+Yunhao Liu,male,A,Researcher,developed,75,3,791
+Zening Qu,male,A,Graduate Student,developed,5,3,794
+Zhigang Deng,male,A,Professor,developed,33,3,796
+Zubair Shafiq,male,A,Lecturer,developed,25,3,798
